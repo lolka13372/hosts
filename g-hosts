@@ -1,0 +1,143 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 16 March 2021 15:50:22 (UTC)
+# Number of unique domains: 67,403
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Hosts contributed by Steven Black
+# http://stevenblack.com
+
+# [adskeeper.com]
+0.0.0.0 adskeeper.com
+0.0.0.0 www.adskeeper.com
+0.0.0.0 s-img.adskeeper.com
+0.0.0.0 jsc.adskeeper.com
+0.0.0.0 servicer.adskeeper.com
+
+# [hentaiz.org - ads]
+0.0.0.0 i.bimbolive.com
+0.0.0.0 cdn.cloudimagesb.com
+0.0.0.0 i.bongacash.com
+0.0.0.0 db.bngpt.com
+
+# [ yandex.ru - trackers]
+#0.0.0.0 mc.yandex.ru
+0.0.0.0 mc.yandex.uk
+0.0.0.0 mc.yandex.com
+0.0.0.0 mc.yandex.co.uk
+0.0.0.0 mc.yandex.io
+0.0.0.0 mc.yandex.in
+0.0.0.0 mc.yandex.co
+0.0.0.0 mc.yandex.md
+0.0.0.0 mc.yandex.ua
+0.0.0.0 mc.yandex.by
+0.0.0.0 mc.yandex.tr
+0.0.0.0 yandexmetrica.com
+0.0.0.0 yandexmetrica.ua
+0.0.0.0 yandexmetrica.by
+0.0.0.0 yandexmetrica.ru
+0.0.0.0 yandexmetrica.uk
+0.0.0.0 yandexmetrica.md
+0.0.0.0 yandexmetrica.in
+0.0.0.0 yandexmetrica.tr
+0.0.0.0 yandexmetrica.co.uk
+0.0.0.0 yandexmetrica.io
+0.0.0.0 ymetrica1.com
+0.0.0.0 mc.admetrica.ru
+0.0.0.0 mc.edadeal.ru
+0.0.0.0 mc.beru.ru
+0.0.0.0 mc.kinopoisk.ru
+0.0.0.0 avatars.mds.yandex.net
+#0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 an.yandex.ru
+0.0.0.0 matchid.adfox.yandex.ru
+0.0.0.0 adfox-c2s-ams.creativecdn.com
+#0.0.0.0 yastatic.net
+
+# [ other trackers ]
+0.0.0.0 greedseed.world
+0.0.0.0 besttvspaces.site
+0.0.0.0 stream.reyden-x.com
+0.0.0.0 static.reyden-x.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 ads.adfox.ru
+0.0.0.0 streamguard.cc
+0.0.0.0 bestcinemas.icu
+0.0.0.0 ssp.bidvol.com
+0.0.0.0 reyden-x.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 v1-c73e.kxcdn.com
+0.0.0.0 v1.pjstat.com
+0.0.0.0 vast.reyden-x.com
+0.0.0.0 4736.in
+0.0.0.0 stats.getaim.info
+0.0.0.0 main-ti-cod.com
+0.0.0.0 cs09.main-ti-cod.com
+0.0.0.0 ads.betweendigital.com
+0.0.0.0 yhb.p.otm-r.com
+0.0.0.0 px.adhigh.net
+0.0.0.0 ssp.bidvol.com
+0.0.0.0 pub-eu.p.otm-r.com
+0.0.0.0 sync.dmp.otm-r.com
+# Updated on 2022
+0.0.0.0 v.alfasrv.com
+0.0.0.0 cdn.alfasense.net
+0.0.0.0 taz.mfcewkrob.com
+0.0.0.0 bbckdl.mfcewkrob.com
+0.0.0.0 cwobam.mfcewkrob.com
+
+# [utarget.ru]
+0.0.0.0 utarget.ru
+0.0.0.0 portoteamo.com
+0.0.0.0 www.portoteamo.com
+
+# [google.com]
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.ru
+0.0.0.0 google-analytics.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
