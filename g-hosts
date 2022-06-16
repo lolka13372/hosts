@@ -117,6 +117,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bbckdl.mfcewkrob.com
 0.0.0.0 cwobam.mfcewkrob.com
 0.0.0.0 absoluteroute.com
+0.0.0.0 log.strm.yandex.ru
 
 # [utarget.ru]
 0.0.0.0 utarget.ru
