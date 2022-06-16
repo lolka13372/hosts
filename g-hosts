@@ -83,6 +83,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 adfox-c2s-ams.creativecdn.com
 #0.0.0.0 yastatic.net
+0.0.0.0 adstat.yandex.ru
 
 # [ other trackers ]
 0.0.0.0 greedseed.world
