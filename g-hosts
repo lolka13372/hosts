@@ -134,6 +134,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
 
+0.0.0.0 ficbook.net
+
 # End yoyo.org
 
 # blacklist
