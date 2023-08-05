@@ -37,6 +37,14 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 chat.vk.com
+0.0.0.0 chat.vk.ru
+0.0.0.0 cache.vk.ru
+0.0.0.0 cache.vk.com
+0.0.0.0 proxy.vk.ru
+0.0.0.0 proxy.vk.com
+0.0.0.0 profile.vk.ru
+0.0.0.0 profile.vk.com
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 shorts.tiktok.com
