@@ -40,6 +40,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 ficbook.net
 0.0.0.0 www.userapi.com
 0.0.0.0 sun1-15.userapi.com
+0.0.0.0 sun1-17.userapi.com
+0.0.0.0 sun1-1.userapi.com
+0.0.0.0 sun1-2.userapi.com
+0.0.0.0 sun1-10.userapi.com
+0.0.0.0 sun1-13.userapi.com
+0.0.0.0 sun1-11.userapi.com
+0.0.0.0 sun1-14.userapi.com
 0.0.0.0 r.mradx.net
 0.0.0.0 tns-counter.ru
 0.0.0.0 trk.mail.ru
