@@ -37,7 +37,6 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
-0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 ficbook.net
 0.0.0.0 userapi.com
 0.0.0.0 r.mradx.net
@@ -45,6 +44,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 tns-counter.ru
 0.0.0.0 trk.mail.ru
 0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 un1-87.userapi.com
+0.0.0.0 queuev4.vk.com
+0.0.0.0 im.vk.com
 
 # End yoyo.org
 
