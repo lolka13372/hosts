@@ -64,6 +64,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 userapi.com
 0.0.0.0 app.vk.com
 0.0.0.0 ru.api.io.mi.com
+0.0.0.0 queuev4.vk.com
+0.0.0.0 m.vk.com
+0.0.0.0 stats.vk-portal.net
+0.0.0.0 i.mycdn.me
+0.0.0.0 b2.mail.ru
+0.0.0.0 bs.yandex.ru
 
 # End yoyo.org
 
