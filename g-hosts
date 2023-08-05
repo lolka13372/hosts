@@ -37,6 +37,11 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 shorts.tiktok.com
+0.0.0.0 mobile.tiktok.com
+0.0.0.0 app.tiktok.com
 0.0.0.0 ficbook.net
 0.0.0.0 www.userapi.com
 0.0.0.0 sun1-15.userapi.com
