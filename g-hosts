@@ -93,6 +93,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 script.vk.com
 0.0.0.0 videos.vk.com
 0.0.0.0 vi.vk.com
+0.0.0.0 dev.vk.com
+0.0.0.0 login.vk.com
+0.0.0.0 auth.vk.com
 
 # End yoyo.org
 
