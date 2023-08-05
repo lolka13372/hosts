@@ -121,6 +121,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 login.vk.me
 0.0.0.0 auth.vk.me
 0.0.0.0 api.vk.me
+0.0.0.0 messages.vk.ru
+0.0.0.0 messages.vk.me
+0.0.0.0 me.vk.me
+0.0.0.0 welcome.vk.ru
+0.0.0.0 welcome.vk.com
+0.0.0.0 web.telegram.org
+0.0.0.0 web.telegram.ru
+0.0.0.0 telegram.org
+0.0.0.0 telegram.ru
+0.0.0.0 www.telegram.org
+0.0.0.0 www.telegram.ru
+0.0.0.0 tg.org
+0.0.0.0 tg.ru
+0.0.0.0 messages.telegram.org
+0.0.0.0 login.telegram.org
 
 # End yoyo.org
 
