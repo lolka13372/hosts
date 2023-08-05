@@ -38,15 +38,12 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 0.0.0.0 ficbook.net
-0.0.0.0 userapi.com
+0.0.0.0 *.userapi.com
 0.0.0.0 r.mradx.net
-0.0.0.0 st1-95.vk.com
 0.0.0.0 tns-counter.ru
 0.0.0.0 trk.mail.ru
 0.0.0.0 top-fwz1.mail.ru
-0.0.0.0 un1-87.userapi.com
-0.0.0.0 queuev4.vk.com
-0.0.0.0 im.vk.com
+0.0.0.0 api.vk.com
 
 # End yoyo.org
 
