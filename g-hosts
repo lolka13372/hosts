@@ -136,6 +136,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 tg.ru
 0.0.0.0 messages.telegram.org
 0.0.0.0 login.telegram.org
+0.0.0.0 api.telegram.org
+0.0.0.0 dev.telegram.org
+0.0.0.0 profile.telegram.org
+0.0.0.0 info.telegram.org
+0.0.0.0 ip.telegram.org
+0.0.0.0 news.telegram.org
 
 # End yoyo.org
 
