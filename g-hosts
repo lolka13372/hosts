@@ -116,6 +116,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.vk.ru
 0.0.0.0 dns.vk.ru
 0.0.0.0 js.vk.ru
+0.0.0.0 vk.me
+0.0.0.0 www.vk.me
+0.0.0.0 login.vk.me
+0.0.0.0 auth.vk.me
+0.0.0.0 api.vk.me
 
 # End yoyo.org
 
