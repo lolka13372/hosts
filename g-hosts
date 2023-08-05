@@ -70,6 +70,29 @@ ff02::3 ip6-allhosts
 0.0.0.0 i.mycdn.me
 0.0.0.0 b2.mail.ru
 0.0.0.0 bs.yandex.ru
+0.0.0.0 id.vk.com
+0.0.0.0 news.vk.com
+0.0.0.0 me.vk.com
+0.0.0.0 sms.vk.com
+0.0.0.0 messanger.vk.com
+0.0.0.0 message.vk.com
+0.0.0.0 friends.vk.com
+0.0.0.0 clip.vk.com
+0.0.0.0 short.vk.com
+0.0.0.0 shorts.vk.com
+0.0.0.0 clips.vk.com
+0.0.0.0 video.vk.com
+0.0.0.0 download.vk.com
+0.0.0.0 dl.vk.com
+0.0.0.0 dns.vk.com
+0.0.0.0 spy.vk.com
+0.0.0.0 settings.vk.com
+0.0.0.0 load.vk.com
+0.0.0.0 js.vk.com
+0.0.0.0 scripts.vk.com
+0.0.0.0 script.vk.com
+0.0.0.0 videos.vk.com
+0.0.0.0 vi.vk.com
 
 # End yoyo.org
 
