@@ -73,6 +73,15 @@ ff02::3 ip6-allhosts
 0.0.0.0 app.vk.com
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 www.youtu.be
+0.0.0.0 js.youtube.com
+0.0.0.0 user.youtube.com
+0.0.0.0 view.youtube.com
+0.0.0.0 app.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 mobile.youtube.com
+0.0.0.0 shorts.youtube.com
 0.0.0.0 api.youtube.com
 0.0.0.0 queuev4.vk.com
 0.0.0.0 m.vk.com
