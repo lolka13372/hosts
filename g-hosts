@@ -161,7 +161,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 info.telegram.org
 0.0.0.0 ip.telegram.org
 0.0.0.0 news.telegram.org
-0.0.0.0 mangalib.me
 # End yoyo.org
 
 # blacklist
