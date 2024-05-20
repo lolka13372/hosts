@@ -85,3 +85,4 @@ server:
     local-zone: "avatars.mds.yandex.net" static
     local-zone: "yastatic.net" static
     local-zone: "gs.kraftonde.com" static
+    local-zone: "yandex.ru" static
