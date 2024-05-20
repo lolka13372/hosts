@@ -61,11 +61,15 @@ server:
     local-zone: "adreasons.yandex-team.ru" static
     local-zone: "ads.yandex.ru" static
     local-zone: "bsinfo.yandex.ru" static
-#    local-zone: "direct.yandex.ru" static
     local-zone: "dr.yandex.net" static
     local-zone: "dr2.yandex.net" static
-#    local-zone: "storage.mds.yandex.net" static
     local-zone: "static.adsafeprotected.com" static
     local-zone: "jsconfig.adsafeprotected.com" static
     local-zone: "s3.mds.yandex.net" static
     local-zone: "surveys.yandex.ru" static
+    local-zone: "pagead2.googlesyndication.com" static
+    local-zone: "analytics.iss.one" static
+    local-zone: "tpc.googlesyndication.com" static
+    local-zone: "dx.frontend.weborama.com" static
+    local-zone: "ads.pubmatic.com" static
+    local-zone: "hb.360yield.com" static
