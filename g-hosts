@@ -37,6 +37,7 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+# Anilibria.tv ads blocking
 0.0.0.0 match.qtarget.tech
 0.0.0.0 ssp.bidvol.com
 0.0.0.0 sync.bumlam.com
@@ -93,9 +94,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 wcm.weborama-tech.ru
 0.0.0.0 strm.yandex.ru
 0.0.0.0 wcm-ru.frontend.weborama.fr
-0.0.0.0 log.strm.yandex.ru
 0.0.0.0 csp.yandex.net
 0.0.0.0 streamguard.cc
+0.0.0.0 amc.yandex.ru
+0.0.0.0 adreasons.yandex-team.ru
 
 # End yoyo.org
 
