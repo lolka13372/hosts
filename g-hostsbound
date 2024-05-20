@@ -82,9 +82,4 @@ server:
     local-zone: "loading.retry.widdit.com" static
     local-zone: "s.relap.io" static
     local-zone: "ad.adriver.ru" static
-    local-zone: "avatars.mds.yandex.net" static
-    local-zone: "yastatic.net" refuse
     local-zone: "gs.kraftonde.com" refuse
-    local-zone: "yandex.ru" refuse
-    local-zone: "www.yandex.ru" refuse
-    local-zone: "yandex.ru" refuse
