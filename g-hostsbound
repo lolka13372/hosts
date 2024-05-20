@@ -83,3 +83,4 @@ server:
     local-zone: "s.relap.io" static
     local-zone: "ad.adriver.ru" static
     local-zone: "gs.kraftonde.com" refuse
+    local-zone: "relap.io" refuse
