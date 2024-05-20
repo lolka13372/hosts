@@ -100,7 +100,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adreasons.yandex-team.ru
 0.0.0.0 ads.yandex.ru
 0.0.0.0 bsinfo.yandex.ru
-0.0.0.0 yandex.ru
+0.0.0.0 direct.yandex.ru
 
 # End yoyo.org
 
