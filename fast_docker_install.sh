@@ -19,3 +19,8 @@ sudo apt-get update
 
 # Установить Docker и его компоненты
 sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+
+# Клонировать репозиторий 3x-ui в каталог пользователя
+git clone https://github.com/MHSanaei/3x-ui.git $HOME/3x-ui
+
+echo "Docker и репозиторий 3x-ui успешно установлены и клонированы."
