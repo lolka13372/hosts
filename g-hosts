@@ -37,11 +37,54 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
-0.0.0.0 stun.l.google.com
-0.0.0.0 stun1.l.google.com
-0.0.0.0 stun2.l.google.com
-0.0.0.0 stun3.l.google.com
-0.0.0.0 stun4.l.google.com
+0.0.0.0 match.qtarget.tech
+0.0.0.0 ssp.bidvol.com
+0.0.0.0 sync.bumlam.com
+0.0.0.0 acint.net
+0.0.0.0 kimberlite.io
+0.0.0.0 rtb.segmel.io
+0.0.0.0 exchange.buzzoola.com
+0.0.0.0 match.new-programmatic.com
+0.0.0.0 cs.agency2.ru
+0.0.0.0 pa.openx.net
+0.0.0.0 cdn.taboola.com
+0.0.0.0 topics.authorizedvault.com
+0.0.0.0 ads.betweendigital.com
+0.0.0.0 onetag-sys.com
+0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 pbs.alfasense.com
+0.0.0.0 px.adhigh.net
+0.0.0.0 ssp.hybrid.ai
+0.0.0.0 ssp.otm-r.com
+0.0.0.0 a.adiam.tech
+0.0.0.0 sync.adspend.space
+0.0.0.0 www.acint.net
+0.0.0.0 cs.alfasense.com
+0.0.0.0 x01.aidata.io
+0.0.0.0 mc.webvisor.org
+0.0.0.0 sync.dmp.otm-r.com
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 alfasense-sync.rutarget.ru
+0.0.0.0 sync.upravel.com
+0.0.0.0 ssp.al-adtech.com
+0.0.0.0 s.alfasrv.com
+0.0.0.0 sm.rtb.mts.ru
+0.0.0.0 ev.adriver.ru
+0.0.0.0 sync.rambler.ru
+0.0.0.0 vma.mts.ru
+0.0.0.0 ads.alfasense.net
+0.0.0.0 sync.programmatica.com
+0.0.0.0 v.alfasrv.com
+0.0.0.0 const.uno
+0.0.0.0 tech.rtb.mts.ru
+0.0.0.0 cdn-rtb.sape.ru
+0.0.0.0 a.utraff.com
+0.0.0.0 receivedachest.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 matchid.adfox.yandex.ru
+0.0.0.0 isatonabench.com
+
+
 # End yoyo.org
 
 # blacklist
