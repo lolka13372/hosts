@@ -98,6 +98,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 streamguard.cc
 0.0.0.0 amc.yandex.ru
 0.0.0.0 adreasons.yandex-team.ru
+0.0.0.0 ads.yandex.ru
+0.0.0.0 bsinfo.yandex.ru
 
 # End yoyo.org
 
