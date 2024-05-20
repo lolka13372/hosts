@@ -47,7 +47,7 @@ server:
     local-zone: "matchid.adfox.yandex.ru" static
     local-zone: "isatonabench.com" static
     local-zone: "log.strm.yandex.ru" static
-    local-zone: "mc.yandex.ru" deny
+    local-zone: "mc.yandex.ru" static
     local-zone: "ads.adfox.ru" static
     local-zone: "adstat.yandex.ru" static
     local-zone: "metrika.yandex.ru" static
@@ -83,4 +83,5 @@ server:
     local-zone: "s.relap.io" static
     local-zone: "ad.adriver.ru" static
     local-zone: "gs.kraftonde.com" static
-    local-zone: "yandex.ru" deny
+    local-zone: "avatars.mds.yandex.net" static
+    local-zone: "direct.yandex.ru" static
