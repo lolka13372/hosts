@@ -1,5 +1,4 @@
 server:
-    # ANILIBRIA ADS LIST
     local-zone: "match.qtarget.tech" static
     local-zone: "ssp.bidvol.com" static
     local-zone: "sync.bumlam.com" static
