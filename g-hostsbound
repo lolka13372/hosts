@@ -76,3 +76,4 @@ server:
     local-zone: "yhb.p.otm-r.com" static
     local-zone: "adx.videonow.ru" static
     local-zone: "ads.digitalcaramel.com" static
+    local-zone: "mc.yandex.md" static
