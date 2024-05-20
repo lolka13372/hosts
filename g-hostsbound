@@ -81,4 +81,4 @@ server:
     local-zone: "tt.epicplay.com" static
     local-zone: "loading.retry.widdit.com" static
     local-zone: "s.relap.io" static
-    local-zone: "ad.adriver.ru" static
+    local-zone: "ad.adriver.ru" static # added 
