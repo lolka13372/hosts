@@ -3,8 +3,8 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 August 2023 21:58:39 (UTC)
-# Number of unique domains: 207,241
+# Date: 12 May 2024 23:10:54 (UTC)
+# Number of unique domains: 132,661
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -83,7 +83,16 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 isatonabench.com
-
+0.0.0.0 log.strm.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 ads.adfox.ru
+0.0.0.0 adstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 ymetrica1.com
+0.0.0.0 pixel.adlooxtracking.ru
+0.0.0.0 wcm.weborama-tech.ru
+0.0.0.0 strm.yandex.ru
+0.0.0.0 wcm-ru.frontend.weborama.fr
 
 # End yoyo.org
 
