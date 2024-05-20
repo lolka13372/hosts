@@ -93,6 +93,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 wcm.weborama-tech.ru
 0.0.0.0 strm.yandex.ru
 0.0.0.0 wcm-ru.frontend.weborama.fr
+0.0.0.0 log.strm.yandex.ru
+0.0.0.0 csp.yandex.net
+0.0.0.0 streamguard.cc
 
 # End yoyo.org
 
