@@ -86,3 +86,4 @@ server:
     local-zone: "avatars.mds.yandex.net" static
     local-zone: "direct.yandex.ru" static
     local-zone: "storage.mds.yandex.net" static
+    local-zone: "cdn.alfasense.net" static
