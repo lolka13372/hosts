@@ -77,3 +77,11 @@ server:
     local-zone: "adx.videonow.ru" static
     local-zone: "ads.digitalcaramel.com" static
     local-zone: "mc.yandex.md" static
+    local-zone: "tt.epicplay.com" static
+    local-zone: "loading.retry.widdit.com" static
+    local-zone: "s.relap.io" static
+    local-zone: "tt.epicplay.com" static
+    local-zone: "tt.epicplay.com" static
+    local-zone: "tt.epicplay.com" static
+    local-zone: "tt.epicplay.com" static
+    local-zone: "storage.mds.yandex.net" static
