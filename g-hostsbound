@@ -84,5 +84,5 @@ server:
     local-zone: "ad.adriver.ru" static
     local-zone: "gs.kraftonde.com" static
     local-zone: "cdn.alfasense.net" static
-    local-zone: "storage.mds.yandex.net" static
+    local-zone: "yastatic.net" static
     
