@@ -84,3 +84,4 @@ server:
     local-zone: "ad.adriver.ru" static # added 
     local-zone: "avatars.mds.yandex.net" static
     local-zone: "yastatic.net" static
+    local-zone: "gs.kraftonde.com" static
