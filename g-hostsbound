@@ -74,5 +74,5 @@ server:
     local-zone: "ads.pubmatic.com" static
     local-zone: "hb.360yield.com" static
     local-zone: "yhb.p.otm-r.com" static
-    lozal-zone: "adx.videonow.ru" static
+    local-zone: "adx.videonow.ru" static
     local-zone: "ads.digitalcaramel.com" static
