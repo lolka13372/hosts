@@ -62,3 +62,6 @@ server:
     local-zone: "ads.yandex.ru" static
     local-zone: "bsinfo.yandex.ru" static
     local-zone: "direct.yandex.ru" static
+    local-zone: "dr.yandex.net" static
+    local-zone: "dr2.yandex.net" static
+    local-zone: "storage.mds.yandex.net" static
