@@ -82,4 +82,5 @@ server:
     local-zone: "loading.retry.widdit.com" static
     local-zone: "s.relap.io" static
     local-zone: "ad.adriver.ru" static # added 
-    local-zone: "direct.yandex.ru" static
+    local-zone: "avatars.mds.yandex.net" static
+    local-zone: "yastatic.net" static
