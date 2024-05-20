@@ -83,7 +83,5 @@ server:
     local-zone: "s.relap.io" static
     local-zone: "ad.adriver.ru" static
     local-zone: "gs.kraftonde.com" static
-    local-zone: "avatars.mds.yandex.net" static
-    local-zone: "direct.yandex.ru" static
-    local-zone: "storage.mds.yandex.net" static
     local-zone: "cdn.alfasense.net" static
+    local-zone: "yandex.ru" static
