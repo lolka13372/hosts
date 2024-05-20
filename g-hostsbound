@@ -81,9 +81,10 @@ server:
     local-zone: "tt.epicplay.com" static
     local-zone: "loading.retry.widdit.com" static
     local-zone: "s.relap.io" static
-    local-zone: "ad.adriver.ru" static # added 
+    local-zone: "ad.adriver.ru" static
     local-zone: "avatars.mds.yandex.net" static
     local-zone: "yastatic.net" refuse
     local-zone: "gs.kraftonde.com" refuse
-    local-zone: "yandex.ru" refuse # added
-    local-zone: "gstatic.com" static
+    local-zone: "yandex.ru" refuse
+    local-zone: "www.yandex.ru" refuse
+    local-zone: "yandex.ru" refuse
