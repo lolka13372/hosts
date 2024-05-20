@@ -83,6 +83,6 @@ server:
     local-zone: "s.relap.io" static
     local-zone: "ad.adriver.ru" static # added 
     local-zone: "avatars.mds.yandex.net" static
-    local-zone: "yastatic.net" static
-    local-zone: "gs.kraftonde.com" static
-    local-zone: "yandex.ru" static # added
+    local-zone: "yastatic.net" refuse
+    local-zone: "gs.kraftonde.com" refuse
+    local-zone: "yandex.ru" refuse # added
