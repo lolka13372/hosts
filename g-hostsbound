@@ -84,4 +84,10 @@ server:
     local-zone: "ad.adriver.ru" static
     local-zone: "gs.kraftonde.com" static
     local-zone: "cdn.alfasense.net" static
+    # Google WEBRTC
+    local-zone: "stun.l.google.com" static
+    local-zone: "stun1.l.google.com" static
+    local-zone: "stun2.l.google.com" static
+    local-zone: "stun3.l.google.com" static
+    local-zone: "stun4.l.google.com" static
     
