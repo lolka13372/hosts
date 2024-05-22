@@ -86,7 +86,6 @@ server:
     local-zone: "banners.adfox.ru" static
     local-zone: "com.webos.service.sm" static
     local-zone: "com.webos.service.tv.systemproperty" static
-    local-zone: "storage.mds.yandex.net" static
     # DarkLibria ADS
     local-zone: "taz.mfcewkrob.com" static
     local-zone: "bbckdl.mfcewkrob.com" static
