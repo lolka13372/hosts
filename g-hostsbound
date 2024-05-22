@@ -47,7 +47,7 @@ server:
     local-zone: "matchid.adfox.yandex.ru" static
     local-zone: "isatonabench.com" static
     local-zone: "log.strm.yandex.ru" static
-#    local-zone: "mc.yandex.ru" static
+    local-zone: "mc.yandex.ru" static
     local-zone: "ads.adfox.ru" static
     local-zone: "adstat.yandex.ru" static
     local-zone: "metrika.yandex.ru" static
@@ -67,7 +67,6 @@ server:
     local-zone: "static.adsafeprotected.com" static
     local-zone: "jsconfig.adsafeprotected.com" static
     local-zone: "s3.mds.yandex.net" static
-    local-zone: "surveys.yandex.ru" static
     local-zone: "pagead2.googlesyndication.com" static
     local-zone: "analytics.iss.one" static
     local-zone: "tpc.googlesyndication.com" static
@@ -90,4 +89,6 @@ server:
     local-zone: "connect.facebook.net" static
     local-zone: "http-check-headers.yandex.ru" static
     local-zone: "an.yandex.ru" static
+    local-zone: "www.merchant-center-analytics.goog" static
+    local-zone: "td.doubleclick.net" static
     
