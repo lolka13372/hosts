@@ -83,6 +83,7 @@ server:
     local-zone: "ad.adriver.ru" static
     local-zone: "gs.kraftonde.com" static
     local-zone: "cdn.alfasense.net" static
+    local-zone: "banners.adfox.ru" static
     # DarkLibria ADS
     local-zone: "taz.mfcewkrob.com" static
     local-zone: "bbckdl.mfcewkrob.com" static
