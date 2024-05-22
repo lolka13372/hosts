@@ -87,4 +87,7 @@ server:
     # DarkLibria ADS
     local-zone: "taz.mfcewkrob.com" static
     local-zone: "bbckdl.mfcewkrob.com" static
+    local-zone: "connect.facebook.net" static
+    local-zone: "http-check-headers.yandex.ru" static
+    local-zone: "an.yandex.ru" static
     
