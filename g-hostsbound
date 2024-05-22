@@ -84,6 +84,8 @@ server:
     local-zone: "gs.kraftonde.com" static
     local-zone: "cdn.alfasense.net" static
     local-zone: "banners.adfox.ru" static
+    local-zone: "com.webos.service.sm" static
+    local-zone: "com.webos.service.tv.systemproperty" static
     # DarkLibria ADS
     local-zone: "taz.mfcewkrob.com" static
     local-zone: "bbckdl.mfcewkrob.com" static
